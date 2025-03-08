@@ -2,7 +2,7 @@
 scipy==1.15.1
 pandas==2.0.3
 scikit-learn==1.5.2
-scikit-survival==0.23.1
+scikit-survival==0.23.1 ; python_version >= "3.8"
 streamlit==1.42.0
 wheel
 setuptools>=42
